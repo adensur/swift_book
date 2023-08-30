@@ -1,0 +1,9 @@
+1693404303: ls
+1693404309: touch Readme.md
+1693404312: git config user.email adensur@gmail.com
+1693404318: git config user.name adensur
+1693404321: git add Readme.md
+1693404325: git commit -m "add readme"
+1693404326: git push
+1693404387: git log
+1693404433: git push
